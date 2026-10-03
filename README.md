@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nikolai 👋
 
-<!--
-**FrankHeels/FrankHeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer**
 
-Here are some ideas to get you started:
+I develop backend applications, APIs and integrations using Python.  
+I focus on reliable business logic, databases, asynchronous processing and clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Backend:** Python, FastAPI, Django, SQLAlchemy, Pydantic  
+**Databases:** PostgreSQL, Redis  
+**Messaging:** RabbitMQ  
+**Testing:** Pytest, integration & API testing  
+**Tools:** Docker, Git, Linux  
+**Also exploring:** Go, Distributed Systems, AI Agents
+
+## 💼 Experience
+
+**KODE**: I have commercial experience as a **Python Backend Developer** working on a mobile banking product.
+
+My work included:
+
+- developing and maintaining backend API endpoints;
+- integrating external services;
+- working with PostgreSQL, Redis and asynchronous services;
+- implementing business logic for banking features;
+- writing unit and integration tests;
+- participating in code review and team development workflows.
+
+I also build personal projects with **FastAPI and Django**, focusing on backend architecture, reliability and real-world development practices.
+
+## 📫 Contact
+
+🐙 GitHub: [github.com/FrankHeels](https://github.com/FrankHeels)  
+✈️ Telegram: [@frankheels](https://t.me/FrankHeels)
