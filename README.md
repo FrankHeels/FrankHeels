@@ -10,9 +10,9 @@
 <p><strong>● Building and sharing backend projects in public</strong></p>
 <p><sub>Based in Moscow</sub></p>
 <p>
-  <a href="https://github.com/FrankHeels"><img src="https://img.shields.io/badge/GitHub-FrankHeels-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: FrankHeels" /></a>
-  <a href="https://t.me/FrankHeels"><img src="https://img.shields.io/badge/Telegram-%40FrankHeels-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @FrankHeels" /></a>
-  <a href="mailto:lock.your.mean@gmail.com"><img src="https://img.shields.io/badge/Email-lock.your.mean%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: lock.your.mean@gmail.com" /></a>
+  <a href="https://github.com/FrankHeels"><img src="https://img.shields.io/badge/GitHub-FrankHeels-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: FrankHeels" /></a>
+  <a href="https://t.me/FrankHeels"><img src="https://img.shields.io/badge/Telegram-%40FrankHeels-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram: @FrankHeels" /></a>
+  <a href="mailto:lock.your.mean@gmail.com"><img src="https://img.shields.io/badge/Email-lock.your.mean%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: lock.your.mean@gmail.com" /></a>
 </p>
 </td>
 <td width="36%" valign="middle" align="center">
@@ -45,73 +45,60 @@
 </tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=frankheels&amp;theme=github-dark&amp;v=recruiter-stats-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=frankheels&amp;theme=github-dark&amp;v=recruiter-stats-1&amp;mode=dark" width="100%" alt="Kazakov Nikolai GitHub activity metrics" />
-</picture>
-</p>
-
 <h2>Selected work</h2>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=frankheels&amp;theme=github-dark&amp;repos=frankheels%2Fcarter%2Cfrankheels%2Fnotification-service&amp;v=recruiter-projects-1&amp;mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=frankheels&amp;theme=github-dark&amp;repos=frankheels%2Fcarter%2Cfrankheels%2Fnotification-service&amp;v=recruiter-projects-1&amp;mode=dark" width="100%" alt="Kazakov Nikolai selected projects" />
 </picture>
-</td>
-<td width="42%" valign="top">
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/FrankHeels/notification-service">Notification Service</a></h3>
 <p>Python backend for asynchronous email and Telegram delivery, with API, background workers, delivery history, and a live dashboard.</p>
 <p><sub>FastAPI · PostgreSQL · RabbitMQ · Redis · Docker · Pytest</sub></p>
 <p><a href="https://github.com/FrankHeels/notification-service">Read the repository →</a></p>
 </td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><h3><a href="https://github.com/FrankHeels/carter">Carter</a></h3><p>Django clothing shop with product variants, a session cart, transactional checkout, and Telegram notifications.</p><p><sub>Python · Django · SQL · Telegram Bot API</sub></p></td>
-<td width="50%" valign="top"><h3><a href="https://github.com/FrankHeels/FrankHeels">Profile README</a></h3><p>This profile: backend experience, technical toolkit, and selected public work.</p><p><sub>Open source · Markdown</sub></p></td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FrankHeels/carter">Carter</a></h3>
+<p>Django clothing shop with product variants, a session cart, transactional checkout, and Telegram notifications.</p>
+<p><sub>Python · Django · SQL · Telegram Bot API</sub></p>
+<p><a href="https://github.com/FrankHeels/carter">Read the repository →</a></p>
+</td>
 </tr>
 </table>
 
 <h2>Technical toolkit</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=frankheels&amp;theme=github-dark&amp;v=recruiter-stack-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=frankheels&amp;theme=github-dark&amp;v=recruiter-stack-1&amp;mode=dark" width="100%" alt="Kazakov Nikolai technology stack" />
-</picture>
-</p>
-
-<p align="center">
+<p align="center"><strong>Backend</strong><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&amp;logo=sqlalchemy&amp;logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic" />
+</p>
+
+<p align="center"><strong>Databases &amp; messaging</strong><br />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ" />
+</p>
+
+<p align="center"><strong>Testing &amp; tools</strong><br />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>Backend development</sub></td>
-<td width="20%" align="center"><strong>FastAPI · Django</strong><br /><sub>Web frameworks</sub></td>
-<td width="20%" align="center"><strong>PostgreSQL · Redis</strong><br /><sub>Data stores</sub></td>
-<td width="20%" align="center"><strong>RabbitMQ</strong><br /><sub>Messaging</sub></td>
-<td width="20%" align="center"><strong>Pytest</strong><br /><sub>Unit and integration testing</sub></td>
-</tr>
-</table>
+<p align="center"><strong>Exploring</strong><br />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-5C6BC0?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/AI_Agents-8E44AD?style=for-the-badge" alt="AI Agents" />
+</p>
 
 <h2>Consistency signal</h2>
 
