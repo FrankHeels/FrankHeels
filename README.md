@@ -10,8 +10,8 @@
 <p><strong>● Building and sharing backend projects in public</strong></p>
 <p><sub>Based in Moscow</sub></p>
 <p>
-  <a href="https://github.com/FrankHeels"><img src="https://img.shields.io/badge/GitHub-FrankHeels-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: FrankHeels" /></a>
-  <a href="https://t.me/FrankHeels"><img src="https://img.shields.io/badge/Telegram-%40FrankHeels-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram: @FrankHeels" /></a>
+  <a href="https://github.com/FrankHeels"><img src="https://img.shields.io/badge/GitHub-FrankHeels-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: FrankHeels" /></a><br />
+  <a href="https://t.me/FrankHeels"><img src="https://img.shields.io/badge/Telegram-%40FrankHeels-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram: @FrankHeels" /></a><br />
   <a href="mailto:lock.your.mean@gmail.com"><img src="https://img.shields.io/badge/Email-lock.your.mean%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: lock.your.mean@gmail.com" /></a>
 </p>
 </td>
