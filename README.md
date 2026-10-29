@@ -49,8 +49,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=frankheels&amp;theme=github-dark&amp;repos=frankheels%2Fcarter%2Cfrankheels%2Fnotification-service&amp;v=recruiter-projects-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=frankheels&amp;theme=github-dark&amp;repos=frankheels%2Fcarter%2Cfrankheels%2Fnotification-service&amp;v=recruiter-projects-1&amp;mode=dark" width="100%" alt="Kazakov Nikolai selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=frankheels&amp;theme=github-dark&amp;repos=frankheels%2Fcarter%2Cfrankheels%2Fnotification-service&amp;v=recruiter-projects-2&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=frankheels&amp;theme=github-dark&amp;repos=frankheels%2Fcarter%2Cfrankheels%2Fnotification-service&amp;v=recruiter-projects-2&amp;mode=dark" width="100%" alt="Kazakov Nikolai selected projects" />
 </picture>
 </p>
 
