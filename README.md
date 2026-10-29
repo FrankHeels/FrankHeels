@@ -1,13 +1,11 @@
-<div align="center">
-
 <table width="100%">
 <tr>
-<td width="64%" valign="middle">
+<td width="100%" valign="middle">
 <p><sub>BACKEND ENGINEER · frankheels</sub></p>
 <h1>Kazakov Nikolai</h1>
 <h2>Python Backend Developer</h2>
-<p>APIs · PostgreSQL · asynchronous processing · integrations</p>
-<p><strong>● Building and sharing backend projects in public</strong></p>
+<p>I build Python backend services and REST APIs: data models and PostgreSQL storage, external integrations, and background processing for long-running tasks.</p>
+<p><strong>Turning product requirements into reliable, maintainable backend services.</strong></p>
 <p><sub>Based in Moscow</sub></p>
 <p>
   <a href="https://github.com/FrankHeels"><img src="https://img.shields.io/badge/GitHub-FrankHeels-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: FrankHeels" /></a><br />
@@ -15,12 +13,8 @@
   <a href="mailto:lock.your.mean@gmail.com"><img src="https://img.shields.io/badge/Email-lock.your.mean%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: lock.your.mean@gmail.com" /></a>
 </p>
 </td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/66126213?v=4" width="180" alt="Kazakov Nikolai GitHub avatar" />
-</td>
 </tr>
 </table>
-</div>
 
 <h2>What teams can evaluate quickly</h2>
 
@@ -115,9 +109,9 @@
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about backend engineering</h2><p>Interested in useful products, reliable services, and thoughtful engineering teams.</p></td>
 <td width="38%" valign="middle" align="right">
-  <a href="https://github.com/FrankHeels">GitHub</a> ·
-  <a href="https://t.me/FrankHeels">Telegram</a> ·
-  <a href="mailto:lock.your.mean@gmail.com">Email</a>
+  <a href="https://github.com/FrankHeels"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a><br />
+  <a href="https://t.me/FrankHeels"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a><br />
+  <a href="mailto:lock.your.mean@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
 </td>
 </tr>
 </table>
